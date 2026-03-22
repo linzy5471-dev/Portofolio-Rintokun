@@ -685,6 +685,9 @@ body.dark .contact-item-icon svg {
 #skills {
     scroll-margin-top: 70px;
 }
+#contact {
+    scroll-margin-top: 90px;
+}
 * {
     user-select: none;
     -webkit-user-select: none;
